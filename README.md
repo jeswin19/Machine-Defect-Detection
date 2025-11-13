@@ -1,2 +1,2 @@
 # Machine-Defect-Detection
-Using CNN and YOLOv8
+Using YOLOv8
